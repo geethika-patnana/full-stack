@@ -1,6 +1,5 @@
 
 # HTML Notes
-**Date:** 29-June-2026
 
 ---
 
@@ -241,7 +240,6 @@ Elements that have no closing tag:
 | `<meta>` | Page metadata |
 
 ---
-
 ## Resources
 - MDN Docs
 - W3 Schools
